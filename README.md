@@ -38,6 +38,10 @@ o	Inspirasi desain:
 bla | bla | bla | bla
 ---|---|---|---
 bla | bla | bla | ⭐⭐⭐⭐⭐
+Pengguna |Membaca berita 	Bisa mengetahui kabar/berita terbaru dari internal ponpes |1111
+pengguna |Mengirim kritik dan pesan	Bisa ponpes bisa meningkatkan dan mengevaluasi |111
+pengguna |Melihat keuangan anak saya	Bisa mengetahui data keuangan anak saya di |ponpes	11
+
 
 ## 3. Struktur Data
 
