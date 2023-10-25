@@ -73,6 +73,7 @@ Resource Files: Anda akan memiliki berkas gambar, XML layout, dan sumber daya la
 ## 6. Desain User Experience dan User Interface
 
 ![Desain tanpa judul](https://github.com/Irs622/saw-/assets/144502106/195f5cb1-13df-43cb-9046-ebfc7e87906b)
+![Desain tanpa judul](https://github.com/Irs622/saw-/assets/144502106/62d83db4-5cae-4d42-bd4d-546dd4d52d24)
 
 
 
