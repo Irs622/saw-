@@ -14,6 +14,7 @@ Melalui kesempatan ini saya akaan menjelaskan produl teknik informatika yg saya 
 🐝 Maintenance
 
 ##Analysis: Branding
+
 Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
 •	Merk: SAW MEDIA
 •	Tagline: aplikasi berbasis untuk walisantri yg berbasis  baca berita seputar kepesantrenan secara internal, Tanya jawab dengan Pembina santri dan data keuangan santri (membayar bulalan santri dan keuangan lainya)
@@ -36,6 +37,7 @@ o
 
  
 ##Analysis: User Story
+
 Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk kita wujudkan sebagai fitur pada sistem atau aplikasi yang akan dibuat. User story [1] memudahkan kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
 sebagai	Saya ingin	Sehingga	prioritas
 Pengguna 	Membaca berita 	Bisa mengetahui kabar/berita terbaru dari internal ponpes	1111
