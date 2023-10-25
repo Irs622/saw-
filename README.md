@@ -43,13 +43,8 @@ pengguna |Melihat keuangan anak saya |	Bisa mengetahui data keuangan anak saya d
 
 ## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
+![PENGGUNA](https://github.com/Irs622/saw-/assets/144502106/4f1542fb-c0bc-4a74-b95b-759dca983b70)
 
-```mermaid
-erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
-```
 
 ## 4. Arsitektur Sistem
 
@@ -73,7 +68,6 @@ Resource Files: Anda akan memiliki berkas gambar, XML layout, dan sumber daya la
 ## 6. Desain User Experience dan User Interface
 
 ![Desain tanpa judul](https://github.com/Irs622/saw-/assets/144502106/195f5cb1-13df-43cb-9046-ebfc7e87906b)
-![Desain tanpa judul](https://github.com/Irs622/saw-/assets/144502106/62d83db4-5cae-4d42-bd4d-546dd4d52d24)
 
 
 
