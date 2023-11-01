@@ -44,6 +44,8 @@ pengguna |Memberikan reach pada postingan |	Bisa mengetahui memberikan ekspresi 
 pengguna | memberikan komentar pada postingan|	Bisa memberikan ekspersi pada postingan berita|⭐⭐⭐⭐
 pengguna |Membagikan postingan ke aplikasi eksternal  |	Bisa menbagikan berita atau postingan ke eksternal applikasi|⭐⭐⭐⭐
 pengguna |Melihat keuangan anak saya |	Bisa mengetahui data keuangan anak saya di ponpes|⭐⭐⭐⭐
+pengguna |Mengirim uang ke anak saya |	anak saya bisa mendapat uang dari saya |⭐⭐⭐⭐
+
 
 
 ## 3. Struktur Data
