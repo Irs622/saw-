@@ -37,8 +37,13 @@ o	Inspirasi desain:
 sebagai | user | sehingga | prioritas
 ---|---|---|---
 Pengguna |Membaca berita |	Bisa mengetahui kabar/berita terbaru dari internal ponpes |⭐⭐⭐⭐⭐
-pengguna |Mengirim kritik dan saran |	Bisa ponpes bisa meningkatkan dan mengevaluasi |⭐⭐
-pengguna |Melihat keuangan anak saya |	Bisa mengetahui data keuangan anak saya di ponpes|	⭐⭐
+pengguna |Mengirim kritik dan saran |	Bisa ponpes bisa meningkatkan dan mengevaluasi |⭐⭐⭐⭐
+pengguna |Melihat keuangan anak saya |	Bisa mengetahui data keuangan anak saya di ponpes|	⭐⭐⭐⭐
+pengguna |Membaca balasan pesan dari admin |	Bisa mengetahui balasan dan feedback dari pihak ponpes|	⭐⭐⭐⭐
+pengguna |Memberikan reach pada postingan |	Bisa mengetahui memberikan ekspresi pada postingan |⭐⭐⭐⭐
+pengguna | memberikan komentar pada postingan|	Bisa memberikan ekspersi pada postingan berita|⭐⭐⭐⭐
+pengguna |Membagikan postingan ke aplikasi eksternal  |	Bisa menbagikan berita atau postingan ke eksternal applikasi|⭐⭐⭐⭐
+pengguna |Melihat keuangan anak saya |	Bisa mengetahui data keuangan anak saya di ponpes|⭐⭐⭐⭐
 
 
 ## 3. Struktur Data
