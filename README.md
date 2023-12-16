@@ -54,11 +54,7 @@ pengguna |Mengirim uang ke anak saya |	anak saya bisa mendapat uang dari saya |â
 
 
 ## 4. Arsitektur Sistem
-
-![diagram 11](https://github.com/Irs622/saw-/assets/144502106/8efd6cbc-ed15-4980-ae76-34534641aab9)
-
-
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+![diagram 11 (1)](https://github.com/Irs622/saw-/assets/144502106/2feab2a0-2627-441a-ac2d-ce3cd4fd37de)
 
 ## 5. Teknologi, Library, dan Framework
 
