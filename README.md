@@ -45,6 +45,7 @@ pengguna | memberikan komentar pada postingan|	Bisa memberikan ekspersi pada pos
 pengguna |Membagikan postingan ke aplikasi eksternal  |	Bisa menbagikan berita atau postingan ke eksternal applikasi|⭐⭐⭐⭐
 pengguna |Melihat keuangan anak saya |	Bisa mengetahui data keuangan anak saya di ponpes|⭐⭐⭐⭐
 pengguna |Mengirim uang ke anak saya |	anak saya bisa mendapat uang dari saya |⭐⭐⭐⭐
+Admin |melihat semua data keuangan dan data transaksi | sehingga bisa mngetahi data keaungan dan keamanan data |⭐⭐⭐⭐
 
 
 
